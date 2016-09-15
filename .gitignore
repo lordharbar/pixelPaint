@@ -1,3 +1,6 @@
+
+# Created by https://www.gitignore.io/api/osx,bower,git
+
 ### OSX ###
 *.DS_Store
 .AppleDouble
@@ -27,5 +30,13 @@ Temporary Items
 .apdisk
 
 
+### Bower ###
+bower_components
+.bower-cache
+.bower-registry
+.bower-tmp
+libs/jQuery
+libs/jquery-3.1.0.min
+libs/*
 ### Git ###
 *.orig

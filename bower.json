@@ -1,0 +1,18 @@
+{
+  "name": "pixelPaint",
+  "homepage": "https://github.com/lordharbar/pixelPaint",
+  "description": "paint program",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "pixelPaint/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "^3.1.0"
+  }
+}
